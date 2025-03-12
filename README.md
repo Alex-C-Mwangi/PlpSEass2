@@ -5,6 +5,13 @@ se-day-2-git-and-github
 Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
 
 Describe the process of setting up a new repository on GitHub. What are the key steps, and what are some of the important decisions you must make during this process?
+Step 1: Login to your Github account, if you dont have one, you need to create it.
+
+Step 2: Once logged in, check the top left of the dashboard page and find "top repostiories" or a button labeled "New" and click on it.
+
+Step 3: First decision is to name your repository. The second decision is choosing either to make the repository public(for sharing projects and code with others online) or private(only the owner of the repository has access to it)
+
+The next decision is choosing whether to initialize the repository with a read me file, a git ignore file and lastly a licence. Once these decisions are made, click on create repository button on the bottom left and you're done.
 
 Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
