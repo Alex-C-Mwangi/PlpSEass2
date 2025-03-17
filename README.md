@@ -3,6 +3,10 @@ Software Engineering Essentials Day 2 Assignment
 se-day-2-git-and-github
 
 Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+Version Control is a tool that helps track changes to files, it smoothens collaborative efforts while maintaining a history of changes made to the files. 
+Fundamental Concepts: Verion Control includes repositorys, which is a database that ontains all files and codes. ii)Commits are a record of changes made to the files in a repository. iii)Branching is a separate development paththat allows multiple projects to be worked on without affecting the main code or project. iv)Merging is a process of combining changes made from one branch into the main path or another branch. Understanding VCS also includes knowing key operations used i.e push, pull which are commands to manipulate remote repositories in Github. Github is an Integrated Development Environment that works with Git's VCS and offers a friendly user interface, operations like branching mergingand storing commit history.
+VCS hwlp maintain project integrity by a)Tracking/recording changes made to the files enabling one to follow the progress of projects. b)Branching capabilities- VCS allows experimental or trial and error work to be done easily by use of separate paths (branches) without intefering with the main file until ready. c)Conflict resolution- When a team of developers are working on the same project conflicts may arise. VCS detect these conflicts and provide tools to resolve them properly.
+
 
 Describe the process of setting up a new repository on GitHub. What are the key steps, and what are some of the important decisions you must make during this process?
 Step 1: Login to your Github account, if you dont have one, you need to create it.
