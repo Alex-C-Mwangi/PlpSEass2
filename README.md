@@ -25,13 +25,13 @@ Anyone can contribute ideas, report bugs, or submit code.
 Others can learn from your code and implement solutions learnt.
 Disadvantages
 Vulnerabilities are publicly visible before they're fixed.
-
 Private Repository Advantages
 Only approved team members can view and contribute.
 No unwanted pull requests.
 Disadvantages
 Fewer perspectives reviewing the code.
 May require paid plans for larger teams.
+
 
 Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
